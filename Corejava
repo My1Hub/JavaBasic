@@ -1,0 +1,120 @@
+Introduction to Java
+
+	•	History of Java
+
+	•	Features of Java
+
+	•	Installing JDK 21.0
+
+	•	Setting up IDE (Integrated Development Environment)
+
+2.	Java Basics
+
+	•	Variables and Data Types
+
+	•	Operators
+
+	•	Control Flow Statements (if-else, switch-case, loops)
+
+3.	Object-Oriented Programming (OOP)
+
+	•	Classes and Objects
+
+	•	Inheritance
+
+	•	Polymorphism
+
+	•	Abstraction
+
+	•	Encapsulation
+
+4.	Packages and Access Modifiers
+
+	•	Creating and using packages
+
+	•	Access modifiers (public, private, protected, default)
+
+5.	Exception Handling
+
+	•	Handling exceptions using try-catch block
+
+	•	Multiple catch blocks
+
+	•	Custom exceptions
+
+	•	Exception propagation
+
+6.	String Handling
+
+	•	String class and its methods
+
+	•	StringBuilder and StringBuffer classes
+
+	•	Regular Expressions
+
+7.	Collections Framework
+
+	•	Introduction to Collections
+
+	•	List, Set, and Map interfaces
+
+	•	ArrayList, LinkedList, HashSet, TreeSet, HashMap, TreeMap implementations
+
+	•	Iterators
+
+8.	Generics
+
+	•	Introduction to generics
+
+	•	Generic classes and methods
+
+	•	Wildcards
+
+9.	Concurrency
+
+	•	Introduction to threads
+
+	•	Creating and running threads
+
+	•	Synchronization
+
+	•	Thread communication
+
+	•	Thread pools
+
+10.	Input/Output (I/O) Operations
+
+	•	File handling in Java
+
+	•	Byte Streams and Character Streams
+
+	•	Serialization and Deserialization
+
+11.	Java 8 Features
+
+	•	Lambda expressions
+
+	•	Functional interfaces
+
+	•	Stream API
+
+	•	Default and static methods in interfaces
+
+12.	Java Annotations
+
+	•	Introduction to annotations
+
+	•	Built-in annotations
+
+	•	Creating custom annotations
+
+13.	JDBC (Java Database Connectivity)
+
+	•	Introduction to JDBC
+
+	•	Connecting to databases
+
+	•	Executing SQL queries
+
+	•	Handling transactions
+
